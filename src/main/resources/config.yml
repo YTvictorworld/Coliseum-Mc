@@ -1,0 +1,17 @@
+# COLISEUM-MC #
+
+coliseums:
+  coliseum:
+    button: "world;-98;83;-187"
+    minPlayers: 2
+    maxPlayers: 4
+    locations:
+      - "world;-98;75;-191;-180;0"
+      - "world;-98;75;-209;0;0"
+    lives: 3
+    equipment:
+      - "0;DIAMOND_SWORD;1"
+      - "5;DIAMOND_HELMET;1"
+      - "6;DIAMOND_CHESTPLATE;1"
+      - "7;DIAMOND_LEGGINGS;1"
+      - "8;DIAMOND_BOOTS;1"
